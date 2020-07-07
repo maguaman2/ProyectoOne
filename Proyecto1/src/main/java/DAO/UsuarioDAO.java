@@ -11,6 +11,7 @@ package DAO;
  */
 public class UsuarioDAO {
     private int codigo;
+    private String nombre;
 
     public int getCodigo() {
         return codigo;
